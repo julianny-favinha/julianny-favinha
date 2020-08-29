@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-I'm an iOS engineer, I've been working with it since 2017 when I started Apple Developer Academy 🍎
+I'm a computer scientist working with iOS engineer since 2017 when I started Apple Developer Academy 🍎
