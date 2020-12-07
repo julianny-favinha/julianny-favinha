@@ -6,4 +6,6 @@
 
 👩🏻‍💻 Currently I'm studying SwiftUI and Flutter
 
+📊 Remembering SQL
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianny-favinha&hide=html&layout=compact" />
